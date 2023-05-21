@@ -1,2 +1,3 @@
 # evolve
-Database Management System for Electric Vehicles
+Database Management System for Electric Vehicles.
+The database application EVOLVE revolves around Electric Vehicles. It contains details about some prominent EV companies, the vehicles they produce, their cost, service and charging stations.The database contains information about the same. There are 6 tables and there exists many relationships between them. The Software used is MySQL.The database application stores information about the details of a company,the vehicles they produce and their specifications, the detailed cost of vehicles, the various services the company provides, the revenue model of the company, the details about the charging stations.
